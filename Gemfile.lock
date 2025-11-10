@@ -323,6 +323,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
   logger (~> 1.7)
+  webrick (~> 1.9)
 
 BUNDLED WITH
    2.7.0
