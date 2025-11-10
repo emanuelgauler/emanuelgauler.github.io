@@ -10,3 +10,22 @@ title: Landing Page
 
 *I'm working in this site!*
 
+## Acerca de mí
+
+About
+
+## Trabajos
+
+Trabajos
+
+##  Servicios
+
+Servicios
+
+## Habilidades 
+
+Habilidades
+
+## Contacto
+
+Contacto
